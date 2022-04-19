@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Project Base Template
 
-Instagram Profile Layout with CSS Grid & Flexbox [https://codepen.io/GeorgePark/pen/VXrwOP] (https://codepen.io/GeorgePark/pen/VXrwOP)
+Instagram Profile Layout with CSS Grid & Flexbox [https://codepen.io/GeorgePark/pen/VXrwOP](https://codepen.io/GeorgePark/pen/VXrwOP)
 
 ## Available Scripts
 
