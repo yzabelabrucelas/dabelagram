@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/yzabelabrucelas/dabelagram",
+  "homepage": "https://yzabelabrucelas.github.io/dabelagram",
   "name": "dabelagram",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +19,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "stable -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
