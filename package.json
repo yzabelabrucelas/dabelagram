@@ -20,7 +20,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "stable -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -42,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "stable": "^0.1.8"
+    "gh-pages": "^3.2.3"
   }
 }
