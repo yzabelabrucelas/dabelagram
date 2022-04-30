@@ -1,10 +1,8 @@
-import React, {useState} from 'react';
-// import Title from './comps/Title';
-import UploadForm from './comps/UploadForm';
-import ImageGrid from './comps/ImageGrid';
+import React, { useState } from "react";
+import UploadForm from "./comps/UploadForm";
+import ImageGrid from "./comps/ImageGrid";
 import Modal from "./comps/Modal";
-import NavbarTop from './comps/NavbarTop';
-
+import NavbarTop from "./comps/NavbarTop";
 
 function App() {
   const [selectedImg, setSelectedImg] = useState(null);
@@ -12,13 +10,11 @@ function App() {
   return (
     <div className="App">
       <NavbarTop />
-      {/* <Title /> */}
       <UploadForm />
       <ImageGrid setSelectedImg={setSelectedImg} />
       {selectedImg && (
         <Modal selectedImg={selectedImg} setSelectedImg={setSelectedImg} />
       )}
-      
     </div>
   );
 }
