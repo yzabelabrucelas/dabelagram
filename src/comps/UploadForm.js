@@ -13,9 +13,8 @@ const UploadForm = () => {
     if (selected && types.includes(selected.type)) {
       setFile(selected);
       setError("");
-      // pn output div show file name
+      // on output div show file name
       //  {/* {file && <div className="upload-label">Uploading {file.name}</div>} */}
-
     } else {
       setFile(null);
       setError("Please select an image file (png or jpg)");
