@@ -146,6 +146,7 @@ img {
 .spotify-img {
   align-items: center;
   margin-left: 12rem;
+  margin-top: 3em;
 }
 .profile-image {
   float: left;
