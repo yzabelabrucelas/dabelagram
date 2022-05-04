@@ -1,6 +1,5 @@
-import React from "react"; 
+import React from "react";
 import UploadForm from "./UploadForm";
 
-const Title = () => {
-}
+const Title = () => {};
 export default Title;

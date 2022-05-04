@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import ProgressBar from "./ProgressBar";
+import spotifycode from "../images/spcode.png";
 
 const UploadForm = () => {
   const [file, setFile] = useState(null);
@@ -55,6 +56,8 @@ const UploadForm = () => {
               <span class="profile-real-name"></span> compilation of our
               pictures since we met (✿◠‿◠)♡
             </p>
+
+            <img src={spotifycode} alt="" className="spotify-img" />
           </div>
         </div>
         <hr />

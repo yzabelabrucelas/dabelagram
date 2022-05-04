@@ -142,6 +142,11 @@ img {
   width: 152px;
   height: 152px;
 }
+
+.spotify-img {
+  align-items: center;
+  margin-left: 12rem;
+}
 .profile-image {
   float: left;
   width: calc(33.333% - 1rem);
@@ -231,6 +236,22 @@ input[type="file"] {
 
 /* Mobile */
 @media screen and (max-width: 40rem) {
+  .output {
+    margin-top: -4em;
+  }
+  /* .img-grid {
+    margin-top: -5rem;
+  } */
+
+  .spotify-img {
+    align-items: center;
+    margin-left: 3.5rem;
+    margin-top: 2rem;
+  }
+
+  hr {
+    visibility: hidden;
+  }
   .profile {
     display: flex;
     flex-wrap: wrap;
