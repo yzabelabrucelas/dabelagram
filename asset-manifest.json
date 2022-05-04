@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dabelagram/static/css/main.4fab88df.chunk.css",
+    "main.css": "/dabelagram/static/css/main.b15f45f3.chunk.css",
     "main.js": "/dabelagram/static/js/main.5c3924d7.chunk.js",
     "main.js.map": "/dabelagram/static/js/main.5c3924d7.chunk.js.map",
     "runtime-main.js": "/dabelagram/static/js/runtime-main.dcca628e.js",
@@ -8,15 +8,15 @@
     "static/js/2.cce64c2c.chunk.js": "/dabelagram/static/js/2.cce64c2c.chunk.js",
     "static/js/2.cce64c2c.chunk.js.map": "/dabelagram/static/js/2.cce64c2c.chunk.js.map",
     "index.html": "/dabelagram/index.html",
-    "precache-manifest.91d764a0733cdd3820b2db14043a4beb.js": "/dabelagram/precache-manifest.91d764a0733cdd3820b2db14043a4beb.js",
+    "precache-manifest.d1e4d98e523706d33897409bdc1d6236.js": "/dabelagram/precache-manifest.d1e4d98e523706d33897409bdc1d6236.js",
     "service-worker.js": "/dabelagram/service-worker.js",
-    "static/css/main.4fab88df.chunk.css.map": "/dabelagram/static/css/main.4fab88df.chunk.css.map",
+    "static/css/main.b15f45f3.chunk.css.map": "/dabelagram/static/css/main.b15f45f3.chunk.css.map",
     "static/js/2.cce64c2c.chunk.js.LICENSE.txt": "/dabelagram/static/js/2.cce64c2c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dcca628e.js",
     "static/js/2.cce64c2c.chunk.js",
-    "static/css/main.4fab88df.chunk.css",
+    "static/css/main.b15f45f3.chunk.css",
     "static/js/main.5c3924d7.chunk.js"
   ]
 }
