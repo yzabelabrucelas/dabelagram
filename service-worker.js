@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dabelagram/precache-manifest.a698e7c1c3ce41b1cfc0b4f2efb56dd2.js"
+  "/dabelagram/precache-manifest.fac3d1e8d2a456525a69b259a3adacd1.js"
 );
 
 self.addEventListener('message', (event) => {

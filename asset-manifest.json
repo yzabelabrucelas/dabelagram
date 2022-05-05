@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dabelagram/static/css/main.9e11965c.chunk.css",
-    "main.js": "/dabelagram/static/js/main.77d1200b.chunk.js",
-    "main.js.map": "/dabelagram/static/js/main.77d1200b.chunk.js.map",
+    "main.css": "/dabelagram/static/css/main.f1e1c0ce.chunk.css",
+    "main.js": "/dabelagram/static/js/main.2955494d.chunk.js",
+    "main.js.map": "/dabelagram/static/js/main.2955494d.chunk.js.map",
     "runtime-main.js": "/dabelagram/static/js/runtime-main.dcca628e.js",
     "runtime-main.js.map": "/dabelagram/static/js/runtime-main.dcca628e.js.map",
     "static/js/2.cb4613b4.chunk.js": "/dabelagram/static/js/2.cb4613b4.chunk.js",
     "static/js/2.cb4613b4.chunk.js.map": "/dabelagram/static/js/2.cb4613b4.chunk.js.map",
     "index.html": "/dabelagram/index.html",
-    "precache-manifest.a698e7c1c3ce41b1cfc0b4f2efb56dd2.js": "/dabelagram/precache-manifest.a698e7c1c3ce41b1cfc0b4f2efb56dd2.js",
+    "precache-manifest.fac3d1e8d2a456525a69b259a3adacd1.js": "/dabelagram/precache-manifest.fac3d1e8d2a456525a69b259a3adacd1.js",
     "service-worker.js": "/dabelagram/service-worker.js",
-    "static/css/main.9e11965c.chunk.css.map": "/dabelagram/static/css/main.9e11965c.chunk.css.map",
+    "static/css/main.f1e1c0ce.chunk.css.map": "/dabelagram/static/css/main.f1e1c0ce.chunk.css.map",
     "static/js/2.cb4613b4.chunk.js.LICENSE.txt": "/dabelagram/static/js/2.cb4613b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dcca628e.js",
     "static/js/2.cb4613b4.chunk.js",
-    "static/css/main.9e11965c.chunk.css",
-    "static/js/main.77d1200b.chunk.js"
+    "static/css/main.f1e1c0ce.chunk.css",
+    "static/js/main.2955494d.chunk.js"
   ]
 }

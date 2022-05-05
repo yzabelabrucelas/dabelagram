@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c8ab3bc23bdc87afcbb68578764fa6c",
+    "revision": "8991a1f59ab4c79ae62bb79c42ce8128",
     "url": "/dabelagram/index.html"
   },
   {
-    "revision": "1724343c0ba8f4ca760d",
-    "url": "/dabelagram/static/css/main.9e11965c.chunk.css"
+    "revision": "13b99c141115dd10de63",
+    "url": "/dabelagram/static/css/main.f1e1c0ce.chunk.css"
   },
   {
     "revision": "ab54bb7c039e02995f9f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dabelagram/static/js/2.cb4613b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1724343c0ba8f4ca760d",
-    "url": "/dabelagram/static/js/main.77d1200b.chunk.js"
+    "revision": "13b99c141115dd10de63",
+    "url": "/dabelagram/static/js/main.2955494d.chunk.js"
   },
   {
     "revision": "9c589d047460c604f8e4",
