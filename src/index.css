@@ -132,7 +132,7 @@ img {
   clear: both;
 }
 .circular-img {
-  background: url("https://firebasestorage.googleapis.com/v0/b/dabelagram.appspot.com/o/IMG_0261.JPG?alt=media&amp;token=ef076589-7a99-4956-92e6-18b9ba7daa0d");
+  background: url("https://firebasestorage.googleapis.com/v0/b/dabelagram-5d7a0.appspot.com/o/IMG_0257.JPG?alt=media&token=a56894b5-7899-4e2f-9f24-973f2f2138f6");
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
@@ -264,7 +264,7 @@ input[type="file"] {
   }
 
   .circular-img {
-    background: url("https://firebasestorage.googleapis.com/v0/b/dabelagram.appspot.com/o/IMG_0261.JPG?alt=media&amp;token=ef076589-7a99-4956-92e6-18b9ba7daa0d");
+    background: url("https://firebasestorage.googleapis.com/v0/b/dabelagram-5d7a0.appspot.com/o/IMG_0257.JPG?alt=media&token=a56894b5-7899-4e2f-9f24-973f2f2138f6");
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
@@ -462,7 +462,7 @@ input[type="file"] {
   width: 22px;
   border-radius: 50%;
   background-size: cover;
-  background-image: url("https://firebasestorage.googleapis.com/v0/b/dabelagram.appspot.com/o/IMG_0261.JPG?alt=media&amp;token=ef076589-7a99-4956-92e6-18b9ba7daa0d");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/dabelagram-5d7a0.appspot.com/o/IMG_0257.JPG?alt=media&token=a56894b5-7899-4e2f-9f24-973f2f2138f6");
 }
 
 /* mobile */
